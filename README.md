@@ -7,6 +7,7 @@ Os dados foram extraídos do Kaggle.
 Link do repositório: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
 ## <strong>🚀 Tecnologias utilizadas:<strong>
+- Google Colab 
 - pandas 
 - numpy 
 - matplotlib.pyplot 
